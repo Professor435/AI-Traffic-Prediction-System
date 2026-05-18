@@ -43,4 +43,4 @@ The README includes:
 - Contributing guidelines
 - MIT License info
 
-contact for more (professorshami435@gmail.com)
+contact for your personal projects or FYP's (professorshami435@gmail.com)
