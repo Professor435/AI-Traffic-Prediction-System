@@ -1,6 +1,6 @@
 # AI-Traffic-Prediction-System
 
-## 🚀 Key Features Implemented
+## 🚀 Key Features Implemented 
 
 | Feature | Description |
 |---------|-------------|
