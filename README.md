@@ -1,7 +1,7 @@
 # AI-Traffic-Prediction-System 
 
 ## 🚀 Key Features Implemented 
-
+ 
 | Feature | Description |
 |---------|-------------|
 | **🧠 AI Prediction Engine** | Neural network-style traffic forecasting with weather, time, and day-type inputs |
