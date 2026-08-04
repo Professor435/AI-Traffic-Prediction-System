@@ -10,7 +10,7 @@
 | **📊 4 Interactive Charts** | Traffic volume trends, congestion by area, sparkline stat cards (Chart.js) |
 | **🛣️ Route Optimizer** | Compares Fastest, Shortest, and Eco-friendly routes with visual congestion bars |
 | **⚠️ Live Incident Feed** | 6 real-time incidents with severity levels, timestamps, and location data |
-| **🌤️ Weather Impact Widget** | Current conditions with traffic correlation analysis |
+| **🌤️ Weather Impact Widget** | Current conditions with traffic correlation analysis | 
 | **🎮 5 Simulation Scenarios** | Normal, Rush Hour, Accident, Bad Weather, Special Event modes |
 | **📈 Historical Data Table** | Time-series traffic records with status badges |
 | **🔔 Toast Notifications** | Animated alerts for system events |
