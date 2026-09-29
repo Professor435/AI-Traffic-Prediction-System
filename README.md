@@ -2,7 +2,7 @@
  
 ## 🚀 Key Features Implemented 
   
-| Feature | Description |
+| Feature | Description | 
 |---------|-------------|
 | **🧠 AI Prediction Engine** | Neural network-style traffic forecasting with weather, time, and day-type inputs |
 | **🗺️ Live Interactive Map** | Real-time animated vehicles, heat zones, and clickable congestion areas using Leaflet.js |
